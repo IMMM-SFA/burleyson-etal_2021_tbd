@@ -31,8 +31,8 @@ model uncertainty matters only after 50+ years. This work can inform the power s
 change uncertainties into their decision-making.
 
 ## Journal reference
-Burleyson, C.D., Z. Khan, M. Kulshresta, N. Voisin, and J.S. Rice (2024). When do different scenarios of projected 
-electricity demand start to meaningfully diverge? In revision in *Applied Energy* - October 2024.
+Burleyson, C.D., Z. Khan, M. Kulshresta, N. Voisin, and J.S. Rice (2025). When do different scenarios of projected 
+electricity demand start to meaningfully diverge? *Applied Energy*, 380, 124948, https://doi.org/10.1016/j.apenergy.2024.124948.
 
 ## Code reference
 Burleyson, C.D., Z. Khan, M. Kulshresta, N. Voisin, and J.S. Rice (2024). Supporting code for Burleyson et al. 2024 - 
